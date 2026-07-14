@@ -1,6 +1,3 @@
-# Name: Marvel Jefferson Luke
-# Student Number: 24722784
-
 '''Here I still implement the same structure as the provided implementation (which is still incomplete), but I still use the same imports
    as we still need them for this implementation to reach the target complexity. We use the Python modules of enum and heapq, where the enum is to help
    create integer representation of the clearance options, and the heapq to be the heap priority queue that keeps the smallest time to be the priority, as we need
